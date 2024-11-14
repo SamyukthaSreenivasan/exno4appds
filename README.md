@@ -17,6 +17,8 @@ Step 6: Use folium map function to display the map location
 
 ## Coding & Output:
 
-<< Upload your screenshots here >>
+
+
 
 ## Result:
+We have sucessfully performed advanced visualisation using geospatial data using python.
