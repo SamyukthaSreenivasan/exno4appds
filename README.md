@@ -162,8 +162,19 @@ import pandas as pd
 m=folium.Map(location=[10.9, 77.519],zoom_start=7,title="TAMILNADU")
 m.save('my_map.html')
 ```
+![image](https://github.com/user-attachments/assets/743e232f-df89-40ee-bf5f-b8cff02caf56)
 
+![image](https://github.com/user-attachments/assets/ea7fe5eb-ad49-4de2-bec5-4dea4031d8f0)
 
+![image](https://github.com/user-attachments/assets/8019d3ef-5d7a-484f-961a-53a4087164f0)
+
+![image](https://github.com/user-attachments/assets/28e879c1-1fbf-40d8-9568-9d6655ac433a)
+
+![image](https://github.com/user-attachments/assets/032de023-12b8-40ed-b631-3ae9911690a1)
+
+![image](https://github.com/user-attachments/assets/1f88feb1-d139-4b26-ba8b-b813f4b7d492)
+
+![image](https://github.com/user-attachments/assets/d9741c0e-bb79-49f2-a30a-25682d4b54ed)
 
 ## Result:
 We have sucessfully performed advanced visualisation using geospatial data using python.
